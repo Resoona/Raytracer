@@ -1,0 +1,26 @@
+﻿  Source.cpp
+c:\dev\c++\raytracer\raytracer\vec3.h(58): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\dev\c++\raytracer\raytracer\vec3.h(136): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\dev\c++\raytracer\raytracer\hitablelist.h(22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\dev\c++\raytracer\raytracer\camera.h(44): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\dev\c++\raytracer\raytracer\material.h(22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\dev\c++\raytracer\raytracer\material.h(94): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\dev\c++\raytracer\raytracer\source.cpp(14): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\dev\c++\raytracer\raytracer\source.cpp(26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\dev\c++\raytracer\raytracer\source.cpp(27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\dev\c++\raytracer\raytracer\source.cpp(27): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\dev\c++\raytracer\raytracer\source.cpp(47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\dev\c++\raytracer\raytracer\source.cpp(47): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\dev\c++\raytracer\raytracer\source.cpp(48): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\dev\c++\raytracer\raytracer\source.cpp(54): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\dev\c++\raytracer\raytracer\source.cpp(59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\dev\c++\raytracer\raytracer\source.cpp(59): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\dev\c++\raytracer\raytracer\source.cpp(64): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\dev\c++\raytracer\raytracer\source.cpp(71): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\dev\c++\raytracer\raytracer\source.cpp(72): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\dev\c++\raytracer\raytracer\source.cpp(86): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\dev\c++\raytracer\raytracer\source.cpp(87): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\dev\c++\raytracer\raytracer\source.cpp(88): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\dev\c++\raytracer\raytracer\source.cpp(90): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\dev\c++\raytracer\raytracer\source.cpp(98): warning C4305: 'initializing': truncation from 'double' to 'float'
+  RayTracer.vcxproj -> C:\dev\C++\RayTracer\Debug\RayTracer.exe
